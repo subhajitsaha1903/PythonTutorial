@@ -12,3 +12,4 @@ print(computer.config(comp1))
 # x = '2'
 # print(type(a))
 # print(type(x))
+# hi subhajit
